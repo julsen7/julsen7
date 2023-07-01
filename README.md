@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=chartreuse-darkk&show_icons=true)
+![Julus07's GitHub stats](https://github-readme-stats.vercel.app/api?username=julus07&theme=chartreuse-darkk&show_icons=true)
 ### Hi there 👋
 It's me: Julus07
 
