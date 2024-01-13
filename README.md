@@ -1,6 +1,6 @@
 ![Julus07's GitHub stats](https://github-readme-stats.vercel.app/api?username=julus07&theme=dark&show_icons=true)
 ### Hi there 👋
-I'm Julus07 :)
+I'm Julus07
 
 <!--
 **Julus07/Julus07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
